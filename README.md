@@ -1,5 +1,4 @@
-# Software Developer
-Hey there, I'm **Gagan Kumar** <br>
+##Hey there, I'm **Gagan Kumar** <br>
 *MEAN Full Stack Developer* at *Infosys*
 
 ### Connect with me on
