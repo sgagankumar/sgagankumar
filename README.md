@@ -19,7 +19,9 @@ Hey there, I'm Gagan Kumar
 > **Specialist Systems Engineer** @Infosys Ltd., Bangalore \
 > **Automation Testing - Intern** @V2Soft, Bangalore \
 
-[![Adwiteeya's github stats](https://github-readme-stats.vercel.app/api?username=adwiteeya3&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&hide=prs,issues,contribs&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [Mail]: mailto://sgagankumar@gmail.com
 [Instagram]: https://instagram.com/sgagankumar/
