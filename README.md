@@ -20,7 +20,7 @@
 > **Automation Testing - Intern** @V2Soft, Bangalore 
 
 ### Nerdy Facts
-[![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true,hide=issues&show_icons=true&theme=midnight-purple)](https://github.com/sgagankumar)
+[![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true&hide=issues&show_icons=true&theme=midnight-purple)](https://github.com/sgagankumar)
 <!-- Reference https://github.com/anuraghazra/ --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgagankumar&layout=compact&theme=midnight-purple)]()
 
