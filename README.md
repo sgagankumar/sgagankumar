@@ -1,6 +1,6 @@
 # Software Developer
-Hey there, I'm Gagan Kumar
-**MEAN Full Stack Developer** at **Infosys**
+Hey there, I'm **Gagan Kumar** <br>
+*MEAN Full Stack Developer* at *Infosys*
 
 ### Connect with me on
 [<img align="left" alt="Email" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-email.png" />][Mail]
