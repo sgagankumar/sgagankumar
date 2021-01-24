@@ -13,14 +13,11 @@ Hey there, I'm Gagan Kumar
 > Languages: Python, JavaScript, HTML, CSS, C, Java\
 > Frameworks: Angular, Express, OpenCV \
 > Databases: MySQL, MongoDB \
-> Tools: Arduino, Selenium, Kubernetes, REST APIs \
->
-<br>
+> Tools: Arduino, Selenium, Kubernetes, REST APIs 
 
 ### Experience
 > **Specialist Systems Engineer** @Infosys Ltd., Bangalore \
-> **Automation Testing - Intern** @V2Soft, Bangalore \
-<br>
+> **Automation Testing - Intern** @V2Soft, Bangalore 
 
 [![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true,hide=issues&show_icons=true&theme=midnight-purple)](https://github.com/sgagankumar)
 <!-- Reference https://github.com/anuraghazra/ --->
