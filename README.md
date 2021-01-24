@@ -6,7 +6,7 @@ Hey there, I'm Gagan Kumar
 [<img align="left" alt="Email" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-email.png" />][Mail]
 [<img align="left" alt="LinkedIn" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-linkedin.png" />][Linkedin]
 [<img align="left" alt="Instagram" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-instagram.png" />][Instagram]
-<br>
+<br><br>
 
 ### I work on
 > Technologies: Image Processing, IoT, Autonomous Driving, Machine Learning, RPA
@@ -14,10 +14,13 @@ Hey there, I'm Gagan Kumar
 > Frameworks: Angular, Express, OpenCV \
 > Databases: MySQL, MongoDB \
 > Tools: Arduino, Selenium, Kubernetes, REST APIs \
+>
+<br>
 
 ### Experience
 > **Specialist Systems Engineer** @Infosys Ltd., Bangalore \
 > **Automation Testing - Intern** @V2Soft, Bangalore \
+<br>
 
 [![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true,hide=issues&show_icons=true&theme=midnight-purple)](https://github.com/sgagankumar)
 <!-- Reference https://github.com/anuraghazra/ --->
