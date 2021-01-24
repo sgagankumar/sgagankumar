@@ -4,8 +4,9 @@
 ### Connect with me on
 [<img align="left" alt="Email" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-email.png" />][Mail]
 [<img align="left" alt="LinkedIn" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-linkedin.png" />][Linkedin]
+[<img align="left" alt="Website" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-website.png" />][Website]
 [<img align="left" alt="Instagram" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-instagram.png" />][Instagram]
-<br><br>
+<br>
 
 ### I work on
 > Technologies: Image Processing, IoT, Autonomous Driving, Machine Learning, RPA
@@ -18,6 +19,7 @@
 > **Specialist Systems Engineer** @Infosys Ltd., Bangalore \
 > **Automation Testing - Intern** @V2Soft, Bangalore 
 
+### Nerdy Facts
 [![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true,hide=issues&show_icons=true&theme=midnight-purple)](https://github.com/sgagankumar)
 <!-- Reference https://github.com/anuraghazra/ --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgagankumar&layout=compact&theme=midnight-purple)]()
@@ -25,3 +27,4 @@
 [Mail]: mailto://sgagankumar@gmail.com
 [Instagram]: https://instagram.com/sgagankumar/
 [LinkedIn]: https://www.linkedin.com/in/sgagankumar/
+[Website]: https://sgagankumar.netlify.app/
