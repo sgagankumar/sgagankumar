@@ -2,10 +2,10 @@
 *MEAN Full Stack Developer* at *Infosys*
 
 ### Connect with me on
-[<img align="left" alt="Email" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icons-email.png" />][Mail]
-[<img align="left" alt="LinkedIn" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-linkedin.png" />][Linkedin]
-[<img align="left" alt="Website" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-website.png" />][Website]
-[<img align="left" alt="Instagram" width="25px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-instagram.png" />][Instagram]
+[<img align="left" alt="Email" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-email.png" />][Mail]
+[<img align="left" alt="LinkedIn" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-linkedin.png" />][Linkedin]
+[<img align="left" alt="Website" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-website.png" />][Website]
+[<img align="left" alt="Instagram" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-instagram.png" />][Instagram]
 <br>
 
 ### I work on
