@@ -17,7 +17,8 @@
 
 ### Experience
 > **Specialist Systems Engineer** @Infosys Ltd., Bangalore \
-> **Automation Testing - Intern** @V2Soft, Bangalore 
+> **Automation Testing - Intern** @V2Soft, Bangalore \
+> **IoT Internship** @Tequed Labs, Bangalore
 
 ### Nerdy Facts
 [![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true&hide=issues&show_icons=true&theme=midnight-purple)](https://github.com/sgagankumar)
