@@ -1,5 +1,5 @@
 ## Hey there, I'm **Gagan Kumar** <br>
-*Digital Specialist Engineer* at *Infosys*
+*Digital Specialist Engineer* at *Infosys* \
 Working on MEAN Full Stack
 
 ### Connect with me on
