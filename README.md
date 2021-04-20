@@ -1,5 +1,6 @@
 ## Hey there, I'm **Gagan Kumar** <br>
-A *MEAN Full Stack Developer* at *Infosys*
+*Digital Specialist Engineer* at *Infosys*
+Working on MEAN Full Stack
 
 ### Connect with me on
 [<img align="left" alt="Email" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-email.png" />][Mail]
