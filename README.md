@@ -9,11 +9,11 @@ A *MEAN Full Stack Developer* at *Infosys*
 <br>
 
 ### I work on
-> Technologies: Image Processing, IoT, Autonomous Driving, Machine Learning, RPA \
+> Technologies: Image Processing, IoT, Autonomous Driving, Machine Learning, RPA, Web Application Development \
 > Languages: Python, JavaScript, HTML, CSS, C, Java \
 > Frameworks: Angular, Express, OpenCV \
 > Databases: MySQL, MongoDB \
-> Tools: Arduino, Selenium, Kubernetes, REST APIs 
+> Tools: Arduino, Selenium, Kubernetes, Dataiku
 
 ### Experience
 > **Specialist Systems Engineer** @Infosys Ltd., Bangalore \
