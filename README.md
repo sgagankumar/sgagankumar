@@ -1,5 +1,5 @@
 ## Hey there, I'm **Gagan Kumar** <br>
-*MEAN Full Stack Developer* at *Infosys*
+A *MEAN Full Stack Developer* at *Infosys*
 
 ### Connect with me on
 [<img align="left" alt="Email" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-email.png" />][Mail]
