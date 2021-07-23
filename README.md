@@ -14,7 +14,7 @@ Working on MEAN Full Stack
 > Languages: Python, JavaScript, HTML, CSS, C, Java \
 > Frameworks: Angular, Express, OpenCV \
 > Databases: MySQL, MongoDB \
-> Tools: Arduino, Selenium, Kubernetes, Dataiku
+> Tools: Arduino, Selenium, Kubernetes, Dataiku Science Studio
 
 ### Experience
 > **Specialist Systems Engineer** @Infosys Ltd., Bangalore \
