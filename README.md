@@ -1,25 +1,28 @@
 ## Hey there, I'm **Gagan Kumar** <br>
-*Digital Specialist Engineer* at *Infosys* \
-Working on MEAN Full Stack
+*Specialist Programmer* at *Infosys* \
+Working as a Java Fullstack and Python Developer
 
 ### Connect with me on
-[<img align="left" alt="Email" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-email.png" />][Mail]
-[<img align="left" alt="LinkedIn" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-linkedin.png" />][Linkedin]
-[<img align="left" alt="Website" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-website.png" />][Website]
-[<img align="left" alt="Instagram" width="32px" src="https://github.com/sgagankumar/sgagankumar/blob/main/icon-instagram.png" />][Instagram]
+[<img align="left" alt="Email" width="32px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />][Mail]
+[<img align="left" alt="LinkedIn" width="32px" src="https://static-exp1.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo" />][Linkedin]
+[<img align="left" alt="Website" width="32px" src="https://github.com/fluidicon.png" />][Website]
+[<img align="left" alt="Instagram" width="32px" src="https://static.cdninstagram.com/rsrc.php/yS/r/f_5NUHW7AZC.ico" />][Instagram]
 <br>
 
 ### I work on
-> Technologies: Image Processing, IoT, Autonomous Driving, Machine Learning, RPA, Web Application Development \
+> Java Springboot Microservices, Python, gRPC, Kafka, PostGres, Selenium and other Testing Frameworks.
+
+### I build passion projects on 
+> Technologies: Image Processing, IoT, Autonomous Driving, Machine Learning, RPA\
 > Languages: Python, JavaScript, HTML, CSS, C, Java \
-> Frameworks: Angular, Express, OpenCV \
+> Frameworks: Angular, NodeJs, Express, OpenCV \
 > Databases: MySQL, MongoDB \
 > Tools: Arduino, Selenium, Kubernetes, Dataiku Science Studio
 
 ### Experience
-> **Specialist Systems Engineer** @Infosys Ltd., Bangalore \
-> **Automation Testing - Intern** @V2Soft, Bangalore \
-> **IoT Internship** @Tequed Labs, Bangalore
+> **Specialist Programmer** @Infosys Ltd., Bangalore - Current 2+ yrs\
+> **SDE - Intern** @V2Soft, Bangalore \
+> **Junior Programmer Internship** @Tequed Labs, Bangalore
 
 ### Nerdy Facts
 [![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true&hide=issues&show_icons=true&theme=midnight-purple)](https://github.com/sgagankumar)
