@@ -29,7 +29,7 @@ Working as a Java Fullstack and Python Developer
 > **Junior Programmer Internship** @Tequed Labs, Bangalore
 
 ### Nerdy Facts
-[![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true&hide=issues&show_icons=true&theme=midnight-purple)](https://github.com/sgagankumar)
+[![Gagan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sgagankumar&count_private=true&hide=issues,contribs&show_icons=true&rank_icon=github&theme=midnight-purple)](https://github.com/sgagankumar)
 <!-- Reference https://github.com/anuraghazra/ --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgagankumar&layout=compact&theme=midnight-purple)]()
 
