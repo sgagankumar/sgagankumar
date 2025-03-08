@@ -1,6 +1,6 @@
 ## Hey there, I'm **Gagan Kumar** <br>
 Pursuing a remote advanced program for **Masters of Science** in **Computer Science** at **Scaler Neovarsity** \
-Working as a Java Fullstack and Python Developer
+Working as a Java Springboot Backend and Python Developer
 
 ### Connect with me on
 [<img align="left" alt="Email" width="32px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />][Mail]
@@ -13,14 +13,8 @@ Working as a Java Fullstack and Python Developer
 <br>
 
 ### I work on
-> Java Springboot Microservices, Python, gRPC, Kafka, PostGres and REST APIs.
-
-### I build projects on 
-> Technologies: Image Processing, IoT, Autonomous Driving, Machine Learning, RPA\
-> Languages: Python, JavaScript, HTML, CSS, C, Java \
-> Frameworks: Angular, NodeJs, Express, OpenCV \
-> Databases: MySQL, MongoDB \
-> Tools: Arduino, Selenium, Kubernetes, Dataiku Science Studio
+> Java Springboot Microservices, Python, gRPC, Kafka, Redis, PostGres and REST APIs.\
+> Additionally, OpenCV, SQL DBs, DSA, Design Problems, Testing.
 
 ### Experience
 > **Current** Dedicated Work Break since OCT-23
