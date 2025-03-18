@@ -13,7 +13,7 @@ Working as a Java Springboot Backend and Python Developer
 <br>
 
 ### I work on
-Java Springboot Microservices, Python, gRPC, Kafka, Redis, PostGres and REST APIs.\
+Java Springboot Microservices, Python, gRPC, Kafka, Redis, PostGres and REST APIs.
 > **Additionally :** OpenCV, SQL DBs, DSA, Design Problems, Testing.
 
 ### Experience
