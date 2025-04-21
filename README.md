@@ -1,6 +1,7 @@
 ## Hey there, I'm **Gagan Kumar** <br>
-Pursuing a remote advanced program for **Masters of Science** in **Computer Science** at **Scaler Neovarsity** \
-Working as a Java Springboot Backend and Python Developer
+I am a Backend Developer, working as a **Senior Software Engineer** at **Tracxn**.   
+Pursuing a remote advanced program for **Masters of Science** in **Computer Science** at **Scaler Neovarsity**
+
 
 ### Connect with me on
 [<img align="left" alt="Email" width="32px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />][Mail]
@@ -17,7 +18,7 @@ Java Springboot Microservices, Python, gRPC, Kafka, Redis, PostGres and REST API
 > **Additionally :** OpenCV, SQL DBs, DSA, Design Problems, Testing.
 
 ### Experience
-**Current** Dedicated Work Break since OCT-23
+**Current** Senior Software Engineer @ Tracxn
 > **Previous :**\
 > **Specialist Programmer** @Infosys Ltd., Bangalore - 3 yrs\
 > **SDE - Intern** @V2Soft, Bangalore \
